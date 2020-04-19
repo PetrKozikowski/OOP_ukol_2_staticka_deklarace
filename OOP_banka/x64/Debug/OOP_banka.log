@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Petr\source\repos\OOP\OOP_banka\main.cpp(46,23): warning C4101: account2: neodkazovaná lokální proměnná
+  OOP_banka.vcxproj -> C:\Users\Petr\source\repos\OOP\x64\Debug\OOP_banka.exe
